@@ -7,6 +7,11 @@ This project implements a **Retrieval-Augmented Generation (RAG)** pipeline that
 Instead of relying only on model knowledge, this system retrieves relevant chunks from documents and uses them to generate accurate responses.
 
 ---
+🔗 Run on Google Colab
+
+Click below to open and run the notebook directly: [https://colab.research.google.com/drive/13pL5YJ5JxDEv8jMLE3QVu0AI9-m7RnIj#scrollTo=rVpt7ur01LyG](https://colab.research.google.com/drive/13pL5YJ5JxDEv8jMLE3QVu0AI9-m7RnIj?usp=sharing)
+
+---
 
 ## 🧠 Key Concepts
 
